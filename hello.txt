@@ -1,1 +1,2 @@
 test ini Hello World
+ini text nya dimas
